@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+motor
+pymongo
+bcrypt
+passlib[bcrypt]
+python-jose
+python-multipart
+pillow
+numpy
+face_recognition
+opencv-python-headless
